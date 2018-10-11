@@ -145,7 +145,7 @@
   <ol><a href="https://br.udacity.com/course/intro-to-data-analysis--ud170">⚫Introdução à Análise de Dados Numpy+Pandas</a></ol>
   <ol><a href="https://br.udacity.com/course/data-analysis-and-visualization--ud404">⚫Análise de dados e visualização</a></ol>
   <ol><a href="https://www.datacamp.com/tracks/data-analyst-with-python">⚫Data Analyst with Python - Datacamp</a></ol>
-  <ol><a href="  https://www.youtube.com/playlist?list=PL5936mk51L3_OZs9zYJE_-xy7SDkoV-0c">⚫Engenharia de Dados Explica.Ai</a></ol>
+  <ol><a href="https://www.youtube.com/playlist?list=PL5936mk51L3_OZs9zYJE_-xy7SDkoV-0c">⚫Engenharia de Dados Explica.Ai</a></ol>
   <b><li id="ia">🔴Inteligência Artificial:</li></b>
   <ol><a href="https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos">⚫Fundamentos IA por DSA</a></ol>
   <ol><a href="https://br.udacity.com/course/intro-to-artificial-intelligence--cs271">⚫Introdução a IA por Udacity</ol></a>
