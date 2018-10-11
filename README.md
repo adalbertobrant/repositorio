@@ -35,7 +35,7 @@
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados">⚫Curso Gratuito de Introdução a Ciência de Dados (Carga Horária: 8 Horas):</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos">⚫Curso Gratuito de Fundamentos de Inteligência Artificial (Carga Horária: 8 Horas)</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science">⚫Curso Gratuito de Microsoft Power BI (Carga Horária: 54 Horas)</a></ol>
-<ol><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">⚫Curso Gratuito de Fundamentos de Big Data (Carga Horária: 8 Horas)</a></ol></ul>
+<ol><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">⚫Curso Gratuito de Fundamentos de Big Data (Carga Horária: 8 Horas)</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos
 ">⚫Inteligência Artificial Fundamentos(Carga Horária: 8 Horas)</a></ol></ul>
 <h4>🔴Udacity</h4>
