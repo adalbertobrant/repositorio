@@ -30,7 +30,7 @@
 </ul>
 <h3 id="python">Python</h3>
 <ul>
-  <ol><a href="https://panda.ime.usp.br/cc110/static/cc110/index.html">⚫Curso Gratuito de Python USP:</a></ol>
+  <ol><a href="https://panda.ime.usp.br/pensepy/static/pensepy/index.html">⚫Curso Gratuito de Python USP:</a></ol>
 </ul>
 <h3>Cursos gratuitos</h3> 
 <h4>🔴DSA</h4>
