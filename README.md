@@ -28,7 +28,10 @@
   <ol><a href="#dl">⚫Deep Learning</ol></a>
   <ol><a href="#bi">⚫Business Intelligence</ol></a>
 </ul>
-
+<h3 id="python">Python</h3>
+<ul>
+  <ol><a href="https://panda.ime.usp.br/cc110/static/cc110/index.html">⚫Curso Gratuito de Python USP:</a></ol>
+</ul>
 <h3>Cursos gratuitos</h3> 
 <h4>🔴DSA</h4>
 <ul><ol><a href="https://www.datascienceacademy.com.br/course?courseid=python-fundamentos">⚫Curso Gratuito de Python Fundamentos para Análise de Dados (Carga Horária: 54 Horas):</a></ol>
