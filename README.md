@@ -33,6 +33,13 @@
   <ol><a href="https://panda.ime.usp.br/pensepy/static/pensepy/index.html">⚫Curso Gratuito de Python USP:</a></ol>
 </ul>
 <h3>Cursos gratuitos</h3> 
+<h4>🔴Stanford em PORTUGUÊS</h4>
+<ul>
+  <ol><a href="https://stanford.edu/~shervine/l/pt/teaching/cs-229/dicas-aprendizado-supervisionado">⚫Aprendizado supervisionado</a></ol>
+  <ol><a href="https://stanford.edu/~shervine/l/pt/teaching/cs-229/dicas-aprendizado-nao-supervisionado">⚫Aprendizado não supervisionado</a></ol>
+  <ol><a href="https://stanford.edu/~shervine/l/pt/teaching/cs-229/dicas-aprendizado-profundo">⚫Aprendizado profundo</a></ol>
+  <ol><a href="https://stanford.edu/~shervine/l/pt/teaching/cs-229/dicas-truques-aprendizado-maquina">⚫Dicas e truques de aprendizado de máquina</a></ol>
+</ul>
 <h4>🔴DSA</h4>
 <ul><ol><a href="https://www.datascienceacademy.com.br/course?courseid=python-fundamentos">⚫Curso Gratuito de Python Fundamentos para Análise de Dados (Carga Horária: 54 Horas):</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados">⚫Curso Gratuito de Introdução a Ciência de Dados (Carga Horária: 8 Horas):</a></ol>
