@@ -152,6 +152,7 @@
 <h3 id="intermed">👨‍💼 Trilha intermediários(programadores python/R ou BI)</h3>
 <ol>
   <b><li>🔴Análise de dados:</li></b>
+  <ol><a href="http://leg.ufpr.br/~fernandomayer/aulas/ce001e-2016-2/02_Analise_Exploratoria_de_Dados.html">⚫Análise exploratória de dados UFPR</a></ol>
   <ol><a href="https://br.udacity.com/course/intro-to-data-analysis--ud170">⚫Introdução à Análise de Dados Numpy+Pandas</a></ol>
   <ol><a href="https://br.udacity.com/course/data-analysis-and-visualization--ud404">⚫Análise de dados e visualização</a></ol>
   <ol><a href="https://www.datacamp.com/tracks/data-analyst-with-python">⚫Data Analyst with Python - Datacamp</a></ol>
