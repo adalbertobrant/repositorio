@@ -13,8 +13,12 @@
 <ul><ol><a href="https://github.com/andweber92/combatendo-fake-news-com-machine-learning">Combatendo fake news com machine learning</ol></a>
 
 <h3>Trilhas</h3>
-<ul><ol><a href="#iniciante">👶 Trilha iniciante(não programadores python/R)</ol></a>
-<ol><a href="#intermed">👨‍💼 Trilha intermediários(programadores python/R ou BI)</ol></ul></a>
+<ul>
+<ol><a href="#iniciante">👶 Trilha iniciante(não programadores python/R)</ol></a>
+<ol><a href="#intermed">👨‍💼 Trilha intermediários(programadores python/R ou BI)</ol></a>
+<ol><a href="https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/pt
+">👩‍🏫 Trilha Stanford PT-BR(MACHINE LEARNING, DEEP LEARNING, ALGEBRA LINEAR, PROB/ESTAT)</ol></a>
+</ul>
 
 <h3>Por Assunto:</h3>
 <ul>
