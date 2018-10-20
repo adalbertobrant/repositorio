@@ -67,6 +67,7 @@
 <ol><a href="https://br.udacity.com/course/introduction-to-python--ud1110">⚫Introdução ao Python</a></ol>
 <ol><a href="https://br.udacity.com/course/programming-foundations-with-python--ud036">⚫Fundamentos da Programação com Python</a></ol>
 <ol><a href="https://br.udacity.com/course/intro-to-data-analysis--ud170">⚫Introdução à Análise de Dados Numpy+Pandas</a></ol>
+<ol><a href="https://br.udacity.com/course/data-analysis-with-r--ud651">⚫Análise de Dados com R</a></ol>
 <ol><a href="https://br.udacity.com/course/sql-for-data-analysis--ud198">⚫SQL para análise de dados</a></ol>
 <ol><a href="https://br.udacity.com/course/data-wrangling-with-mongodb--ud032">⚫Tratamento de Dados com MongoDB</a></ol>
 <ol><a href="https://br.udacity.com/course/intro-to-artificial-intelligence--cs271">⚫Introdução à Inteligência Artificial</a></ol>
