@@ -1,4 +1,4 @@
-<h1>🔎 Data Science Brasil 📊</h1>
+<h1>🔎 Data Science Brazil 📊</h1>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CJBAVLMXC2KC6"><img src="https://www.paypalobjects.com/webstatic/mktg/merchant_portal/button/donate.pt.png"></a><h2>Repositório indexador de conteúdo gratuito para ciência de dados.</h2>
 <h3>Breve guia:</h3>
 <img src="https://uploaddeimagens.com.br/images/001/657/867/original/RoadToDataScientist1.png?1538949194">
