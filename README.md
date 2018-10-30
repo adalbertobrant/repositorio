@@ -171,6 +171,7 @@
   <ol><a href="https://br.udacity.com/course/machine-learning--ud262">⚫Machine Learning - Supervisionado, Não-Supervisionado e Por Reforço</a></ol>
   <ol><a href="https://br.udacity.com/course/reinforcement-learning--ud600">⚫Aprendizado por Reforço</a></ol>
   <ol><a href="http://cursos.leg.ufpr.br/ML4all/1parte/">⚫Machine Learning por UFPR</a></ol>
+  <ol><a href="https://github.com/OtavioAugusto/workshop-machine-learning-iniciante">⚫Machine Learning para INICIANTES</a></ol>
   <b><li id="dl">🔴Deep Learning:</li></b>
   <ol><a href="https://www.youtube.com/playlist?list=PL4OAe-tL47sbzwP6pWR6NQ5ESOt-Ktrih">⚫Deep Learning com Python em português</a></ol>
   <ol><a href="https://br.udacity.com/course/deep-learning--ud730">⚫Deep Learning by Google</a></ol>
