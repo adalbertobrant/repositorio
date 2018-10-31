@@ -40,7 +40,7 @@ Python, SQL, R, Tensorflow(prepare sua maquina com python 3.6 no maximo! 3.7 nao
 (cheatsheets dsb para guiar)
 <ol>
 <ul>semana 5 e 6(3dez a 16dez) - Algoritmos de machine learning (http://cursos.leg.ufpr.br/ML4all/)</ul>
-<ul>semana 7(17dez a 23dez) - Deep Learning</ul>
+<ul>semana 7(17dez a 23dez) - Deep Learning (https://www.youtube.com/playlist?list=PL4OAe-tL47sbzwP6pWR6NQ5ESOt-Ktrih)</ul>
 <ul>semana 8(24dez a 30dez) - projeto 2 kaggle https://www.kaggle.com/c/digit-recognizer</ul>
 </ol>
 <h3>🔴Mês 3 - Ferramentas do dia-a-dia cientista de dados</h3>
