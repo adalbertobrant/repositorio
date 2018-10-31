@@ -21,32 +21,32 @@ Se você é competitivo(a), indicamos o site http://www.stickk.com/ onde você i
 <ul>-2 a 3 horas de estudo por dia</ul>
 </ol>
 <h2>Ferramentas:</h2>
-Python, SQL, R, Tensorflow(prepare sua maquina com python 3.6 no maximo! 3.7 nao roda tensorflow), Hadoop, MapReduce, Spark, Github
+Python, SQL, NoSQL, R, Tensorflow(prepare sua maquina com python 3.6 no maximo! 3.7 nao roda tensorflow), Hadoop, MapReduce, Spark, Github...
 
 <h2>Técnicas para aceleração de aprendizado:</h2>
 <ol>
 <ul>-Assista aos videos com velocidade aumentada utilizando extensões do browser se necessário</ul>
-<ul>-Escreva notas de cada capitulo, tenho um caderno para maratona</ul>
+<ul>-Escreva notas de cada capitulo, tenha um caderno para maratona</ul>
 <ul>-Imersão total no grupo da maratona <a href="https://chat.whatsapp.com/CpSlikjpDzK3bfId7UIds2">AQUI</ul></a>
 </ol>
 <h3>🔴Mês 1 - Análise de dados</h3>
 <ol>
-<ul>semana 1(5nov a 11nov) - aprenda Python (https://solyd.com.br/treinamentos/python-basico)</ul>
-  <ul>semana 2(12nov a 18nov) - Probabilidade e estatística (https://www.learncafe.com/cursos/curso-de-estatistica-e-probabilidade---escolha-o-video-pelo-assunto-que-esta-abaixo:-4)</ul>
+<ul>semana 1(5nov a 11nov) - <a href="https://solyd.com.br/treinamentos/python-basico">aprenda Python</ul></a>
+<ul>semana 2(12nov a 18nov) - <a href="https://www.learncafe.com/cursos/curso-de-estatistica-e-probabilidade---escolha-o-video-pelo-assunto-que-esta-abaixo:-4">Probabilidade e estatística</ul></a>
 <ul>semana 3(19nov a 25nov) - <a href="https://www.datascienceacademy.com.br/course?courseid=python-fundamentos">Pré processamento de dados, dataviz, análise exploratória(Capitulos 8 e 9 apenas)</ul></a>
-<ul>semana 4(26nov a 2dez) - projeto kaggle https://www.kaggle.com/c/titanic</ul>
+<ul>semana 4(26nov a 2dez) - <a href="https://www.kaggle.com/c/titanic">projeto 1 kaggle</ul></a>
 </ol>
 <h3>🔴Mês 2 - Machine Learning</h3>
 (cheatsheets dsb para guiar)
 <ol>
-<ul>semana 5 e 6(3dez a 16dez) - Algoritmos de machine learning (http://cursos.leg.ufpr.br/ML4all/)</ul>
+<ul>semana 5 e 6(3dez a 16dez) - <a href="http://cursos.leg.ufpr.br/ML4all/">Algoritmos de machine learning</ul></a>
 <ul>semana 7(17dez a 23dez) - Deep Learning (https://www.youtube.com/playlist?list=PL4OAe-tL47sbzwP6pWR6NQ5ESOt-Ktrih)</ul>
-<ul>semana 8(24dez a 30dez) - projeto 2 kaggle https://www.kaggle.com/c/digit-recognizer</ul>
+<ul>semana 8(24dez a 30dez) - <a href="https://www.kaggle.com/c/digit-recognizer">projeto 2 kaggle</ul></a>
 </ol>
 <h3>🔴Mês 3 - Ferramentas do dia-a-dia cientista de dados</h3>
 <ol>
-<ul>semana 9(31dez a 6jan) - SQL (https://www.cursoemvideo.com/course/curso-banco-dados-mysql/) e NoSQL (https://www.youtube.com/playlist?list=PL4OAe-tL47sZeAX1LXxSZxXtqj1fYGkF1)</ul>
+  <ul>semana 9(31dez a 6jan) - <a href="https://www.cursoemvideo.com/course/curso-banco-dados-mysql/">SQL</a> e <a href="https://www.youtube.com/playlist?list=PL4OAe-tL47sZeAX1LXxSZxXtqj1fYGkF1">NoSQL</ul></a>
 <ul>semana 10(7jan a 13jan) - Hadoop e Map Reduce + Spark</ul>
 <ul>semana 11(14jan a 20jan) - O que os dados tem a dizer...</ul>
-<ul>semana 12(21jan a 27jan) - projeto 3 kaggle de sua escolha em https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted</ul>
+<ul>semana 12(21jan a 27jan) - <a href="https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted">projeto 3 kaggle de sua escolha</ul></a>
 </ol>
