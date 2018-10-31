@@ -34,19 +34,19 @@ Python, SQL, R, Tensorflow(prepare sua maquina com python 3.6 no maximo! 3.7 nao
 <ul>semana 1(5nov a 11nov) - aprenda Python (https://solyd.com.br/treinamentos/python-basico)</ul>
   <ul>semana 2(12nov a 18nov) - Probabilidade e estatística (https://www.learncafe.com/cursos/curso-de-estatistica-e-probabilidade---escolha-o-video-pelo-assunto-que-esta-abaixo:-4)</ul>
 <ul>semana 3(19nov a 25nov) - Pré processamento de dados, dataviz, análise exploratória</ul>
-<ul>semana 4(26nov a 2dez) - projeto kaggle</ul>
+<ul>semana 4(26nov a 2dez) - projeto kaggle https://www.kaggle.com/c/titanic</ul>
 </ol>
 <h3>🔴Mês 2 - Machine Learning</h3>
 (cheatsheets dsb para guiar)
 <ol>
 <ul>semana 5 e 6(3dez a 16dez) - Algoritmos de machine learning</ul>
 <ul>semana 7(17dez a 23dez) - Deep Learning</ul>
-<ul>semana 8(24dez a 30dez) - projeto 2 kaggle</ul>
+<ul>semana 8(24dez a 30dez) - projeto 2 kaggle https://www.kaggle.com/c/digit-recognizer</ul>
 </ol>
 <h3>🔴Mês 3 - Ferramentas do dia-a-dia cientista de dados</h3>
 <ol>
 <ul>semana 9(31dez a 6jan) - SQL (https://www.cursoemvideo.com/course/curso-banco-dados-mysql/) e NoSQL</ul>
 <ul>semana 10(7jan a 13jan) - Hadoop e Map Reduce + Spark</ul>
 <ul>semana 11(14jan a 20jan) - O que os dados tem a dizer...</ul>
-<ul>semana 12(21jan a 27jan) - projeto 3 kaggle</ul>
+<ul>semana 12(21jan a 27jan) - projeto 3 kaggle de sua escolha em https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted</ul>
 </ol>
