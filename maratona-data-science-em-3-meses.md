@@ -33,10 +33,10 @@ Python, SQL, R, Tensorflow(prepare sua maquina com python 3.6 no maximo! 3.7 nao
 <ul>semana 3 - Pré processamento de dados, dataviz, análise exploratória</ul>
 <ul>semana 4 - projeto kaggle</ul>
 </ol>
-<h3>🔴Mês 2 - Machine Learning<h3>
+<h3>🔴Mês 2 - Machine Learning</h3>
 (cheatsheets dsb para guiar)
 <ol>
-<ul>semana 5 e 6* - Algoritmos de machine learning</ul>
+<ul>semana 5 e 6 - Algoritmos de machine learning</ul>
 <ul>semana 7 - Deep Learning</ul>
 <ul>semana 8 - projeto 2 kaggle</ul>
 </ol>
