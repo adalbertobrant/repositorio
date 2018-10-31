@@ -33,7 +33,7 @@ Python, SQL, R, Tensorflow(prepare sua maquina com python 3.6 no maximo! 3.7 nao
 <ol>
 <ul>semana 1(5nov a 11nov) - aprenda Python (https://solyd.com.br/treinamentos/python-basico)</ul>
   <ul>semana 2(12nov a 18nov) - Probabilidade e estatística (https://www.learncafe.com/cursos/curso-de-estatistica-e-probabilidade---escolha-o-video-pelo-assunto-que-esta-abaixo:-4)</ul>
-<ul>semana 3(19nov a 25nov) - Pré processamento de dados, dataviz, análise exploratória</ul>
+<ul>semana 3(19nov a 25nov) - Pré processamento de dados(https://www.youtube.com/watch?v=j1yjamuaOKY), dataviz, análise exploratória(https://www.youtube.com/playlist?list=PL4OAe-tL47sak0KV_g6VNlPMscQGEAT8t)</ul>
 <ul>semana 4(26nov a 2dez) - projeto kaggle https://www.kaggle.com/c/titanic</ul>
 </ol>
 <h3>🔴Mês 2 - Machine Learning</h3>
