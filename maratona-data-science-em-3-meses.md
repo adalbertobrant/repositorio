@@ -23,7 +23,7 @@ Python, SQL, R, Tensorflow(prepare sua maquina com python 3.6 no maximo! 3.7 nao
 
 <h2>Técnicas para aceleração de aprendizado:</h2>
 <ol>
-<ul>-Assista aos videos com velocidade aumentada utilizando extensões do browser se necessário</ul>
+<ul>Assista aos videos com velocidade aumentada utilizando extensões do browser se necessário</ul>
 <ul>Escreva notas de cada capitulo, tenho um caderno para maratona</ul>
 <ul>Imersão total no grupo da maratona <a href="https://chat.whatsapp.com/CpSlikjpDzK3bfId7UIds2">AQUI</ul></a>
 </ol>
