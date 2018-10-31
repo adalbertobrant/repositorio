@@ -45,7 +45,7 @@ Python, SQL, R, Tensorflow(prepare sua maquina com python 3.6 no maximo! 3.7 nao
 </ol>
 <h3>🔴Mês 3 - Ferramentas do dia-a-dia cientista de dados</h3>
 <ol>
-<ul>semana 9(31dez a 6jan) - SQL (https://www.cursoemvideo.com/course/curso-banco-dados-mysql/) e NoSQL</ul>
+<ul>semana 9(31dez a 6jan) - SQL (https://www.cursoemvideo.com/course/curso-banco-dados-mysql/) e NoSQL (https://www.youtube.com/playlist?list=PL4OAe-tL47sZeAX1LXxSZxXtqj1fYGkF1)</ul>
 <ul>semana 10(7jan a 13jan) - Hadoop e Map Reduce + Spark</ul>
 <ul>semana 11(14jan a 20jan) - O que os dados tem a dizer...</ul>
 <ul>semana 12(21jan a 27jan) - projeto 3 kaggle de sua escolha em https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted</ul>
