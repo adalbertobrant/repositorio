@@ -22,10 +22,11 @@ Se você é competitivo(a), indicamos o site http://www.stickk.com/ onde você i
 Python, SQL, R, Tensorflow(prepare sua maquina com python 3.6 no maximo! 3.7 nao roda tensorflow), Hadoop, MapReduce, Spark, Github
 
 <h2>Técnicas para aceleração de aprendizado:</h2>
--Assista aos videos com velocidade aumentada utilizando extensões do browser se necessário;
--Escreva notas de cada capitulo, tenho um caderno para maratona;
--Imersão total no grupo da maratona em 
-
+<ol>
+<ul>-Assista aos videos com velocidade aumentada utilizando extensões do browser se necessário</ul>
+<ul>Escreva notas de cada capitulo, tenho um caderno para maratona</ul>
+<ul>Imersão total no grupo da maratona <a href="https://chat.whatsapp.com/CpSlikjpDzK3bfId7UIds2">AQUI</ul></a>
+</ol>
 <h3>🔴Mês 1 - Análise de dados</h3>
 <ol>
 <ul>semana 1 - aprenda Python</ul>
