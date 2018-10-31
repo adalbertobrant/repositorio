@@ -30,22 +30,22 @@ Python, SQL, R, Tensorflow(prepare sua maquina com python 3.6 no maximo! 3.7 nao
 </ol>
 <h3>🔴Mês 1 - Análise de dados</h3>
 <ol>
-<ul>semana 1 - aprenda Python</ul>
-<ul>semana 2 - Probabilidade e estatística</ul>
-<ul>semana 3 - Pré processamento de dados, dataviz, análise exploratória</ul>
-<ul>semana 4 - projeto kaggle</ul>
+<ul>semana 1(5nov a 11nov) - aprenda Python</ul>
+<ul>semana 2(12nov a 18nov) - Probabilidade e estatística</ul>
+<ul>semana 3(19nov a 25nov) - Pré processamento de dados, dataviz, análise exploratória</ul>
+<ul>semana 4(26nov a 2dez) - projeto kaggle</ul>
 </ol>
 <h3>🔴Mês 2 - Machine Learning</h3>
 (cheatsheets dsb para guiar)
 <ol>
-<ul>semana 5 e 6 - Algoritmos de machine learning</ul>
-<ul>semana 7 - Deep Learning</ul>
-<ul>semana 8 - projeto 2 kaggle</ul>
+<ul>semana 5 e 6(3dez a 16dez) - Algoritmos de machine learning</ul>
+<ul>semana 7(17dez a 23dez) - Deep Learning</ul>
+<ul>semana 8(24dez a 30dez) - projeto 2 kaggle</ul>
 </ol>
 <h3>🔴Mês 3 - Ferramentas do dia-a-dia cientista de dados</h3>
 <ol>
-<ul>semana 9 - SQL e NoSQL</ul>
-<ul>semana 10* - Hadoop e Map Reduce + Spark</ul>
-<ul>semana 11* - O que os dados tem a dizer...</ul>
-<ul>semana 12* - projeto 3 kaggle</ul>
+<ul>semana 9(31dez a 6jan) - SQL e NoSQL</ul>
+<ul>semana 10(7jan a 13jan) - Hadoop e Map Reduce + Spark</ul>
+<ul>semana 11(14jan a 20jan) - O que os dados tem a dizer...</ul>
+<ul>semana 12(21jan a 27jan) - projeto 3 kaggle</ul>
 </ol>
