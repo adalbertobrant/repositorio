@@ -21,7 +21,7 @@ Se você é competitivo(a), indicamos o site http://www.stickk.com/ onde você i
 <ul>-2 a 3 horas de estudo por dia</ul>
 </ol>
 <h2>Ferramentas:</h2>
-Python, SQL, NoSQL, R, Big Data, Hadoop, MapReduce, Spark, Github...
+Python, Probabilidade/Estatística, Análise de dados, I.A, Machine Learning, Deep Learning, SQL/NoSQL, Big Data, Kaggle
 
 <h2>Técnicas para aceleração de aprendizado:</h2>
 <ol>
