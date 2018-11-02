@@ -21,7 +21,7 @@ Se você é competitivo(a), indicamos o site http://www.stickk.com/ onde você i
 <ul>-2 a 3 horas de estudo por dia</ul>
 </ol>
 <h2>Ferramentas:</h2>
-Python, SQL, NoSQL, R, Tensorflow(prepare sua maquina com python 3.6 no maximo! 3.7 nao roda tensorflow), Hadoop, MapReduce, Spark, Github...
+Python, SQL, NoSQL, R, Big Data, Hadoop, MapReduce, Spark, Github...
 
 <h2>Técnicas para aceleração de aprendizado:</h2>
 <ol>
@@ -46,7 +46,7 @@ Python, SQL, NoSQL, R, Tensorflow(prepare sua maquina com python 3.6 no maximo! 
 <h3>🔴Mês 3 - Ferramentas do dia-a-dia cientista de dados</h3>
 <ol>
   <ul><b>semana 9</b>(31dez a 6jan) - <a href="https://www.cursoemvideo.com/course/curso-banco-dados-mysql/">SQL</a> e <a href="https://www.youtube.com/playlist?list=PL4OAe-tL47sZeAX1LXxSZxXtqj1fYGkF1">NoSQL</ul></a>
-<ul><b>semana 10</b>(7jan a 13jan) - <a href="https://www.bigdatauniversity.com.br/courses/BDUPT/BD001PT/2015/about">Hadoop</a> e <a href="https://www.bigdatauniversity.com.br/courses/BDUPT/BD010PT/2015/about">Map Reduce</a> + <a href="https://www.bigdatauniversity.com.br/courses/BDUPT/BD095PT/2015/about">Spark</ul></a>
-<ul><b>semana 11</b>(14jan a 20jan) - O que os dados tem a dizer...</ul>
+<ul><b>semana 10</b>(14jan a 20jan) - <a href="https://www.coursera.org/learn/introducao-big-data">Big Data!</ul></a>
+<ul><b>semana 11</b>(7jan a 13jan) - <a href="https://www.bigdatauniversity.com.br/courses/BDUPT/BD001PT/2015/about">Hadoop</a> e <a href="https://www.bigdatauniversity.com.br/courses/BDUPT/BD010PT/2015/about">Map Reduce</a> + <a href="https://www.bigdatauniversity.com.br/courses/BDUPT/BD095PT/2015/about">Spark</ul></a>
 <ul><b>semana 12</b>(21jan a 27jan) - <a href="https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted">projeto 3 kaggle de sua escolha</ul></a>
 </ol>
