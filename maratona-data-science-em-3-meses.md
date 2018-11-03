@@ -37,7 +37,7 @@ Python, Probabilidade/Estatística, Análise de dados, I.A, Machine Learning, De
 <ul><b>semana 3</b>(19nov a 25nov) - <a href="https://www.datascienceacademy.com.br/course?courseid=python-fundamentos">Pré processamento de dados, dataviz, análise exploratória(Capitulos 8 e 9 apenas)</ul></a>
 <ul><b>semana 4</b>(26nov a 2dez) - <a href="https://www.kaggle.com/c/titanic">projeto 1 kaggle</ul></a>
 </ol>
-<h3>🔴Mês 2 - Machine Learning</h3>
+<h3>🔴Mês 2 - Inteligência Artificial</h3>
 (cheatsheets dsb para guiar)
 <ol>
 <ul><b>semana 5 e 6</b>(3dez a 16dez) - <a href="http://cursos.leg.ufpr.br/ML4all/">Algoritmos de machine learning</ul></a>
