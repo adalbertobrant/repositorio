@@ -1,4 +1,4 @@
-<h3>Devido ao sucesso da maratona estamos preparando maratonas certificadas(252h) com trilhas e grades diversas! segue link para fila de espera das próximas: http://datasciencebrazil.org/maratona-data-science-em-3-meses/</h3>
+<h3>Devido ao sucesso da maratona estamos preparando maratonas certificadas(252h), online e em português, com trilhas e grades diversas! segue link para fila de espera das próximas: http://datasciencebrazil.org/maratona-data-science-em-3-meses/</h3><br>
 <p style="text-align:center;"><img src="https://uploaddeimagens.com.br/images/001/699/281/original/maratona_dsb.png?1541002812" width="400" height="400" align="center"></p>
 <h1>Maratona Data Science em 3 meses DATA SCIENCE BRAZIL</h1>
 <b>NÃO É PRECISO CONHECIMENTO PRÉVIO ALGUM EM NADA! SE VOCÊ SABE LER E TEM UM COMPUTADOR: BEM VINDO(A)!</b><br>
