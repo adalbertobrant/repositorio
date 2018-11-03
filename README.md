@@ -5,10 +5,10 @@
 <img src="https://uploaddeimagens.com.br/images/001/657/867/original/RoadToDataScientist1.png?1538949194">
 
 
-<a href="https://chat.whatsapp.com/GsEQeT0SOkf1PpUa4f3lRn">🔵Grupo Whatsapp</a><br>
+<a href="https://goo.gl/forms/C6Z4lKhgc2G8dwFN2">🔵Grupo Whatsapp</a><br>
 <a href="https://t.me/joinchat/IzBiXA0tBoe3sR7lc3AJ9A">🔵Grupo Telegram</a><br>
 <a href="https://join.slack.com/t/datasciencebrazil/shared_invite/enQtNDQ5NTU1ODk5NTA3LTJiYzNmNWI1YTlkODY5Y2ZiZmIyYTQ4ZjYyNTQ1MThlNTk4ZGRhZTAwOGFmOTQyYWYxZDAyNTI4YTNhM2FiYjg">🔵Slack</a><br>
-<a href="http://www.somosweber.com.br">🔵Fórum(breve)</a><br>
+<a href="https://www.datasciencebrazil.org/forum">🔵Fórum(breve)</a><br>
 
 <h3>Projetos práticos:</h3>
 <ul><ol><a href="https://github.com/andweber92/combatendo-fake-news-com-machine-learning">Combatendo fake news com machine learning</ol></a>
