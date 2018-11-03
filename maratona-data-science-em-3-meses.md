@@ -5,7 +5,7 @@
 Inspirado em Siraj Raval, criamos a maratona data science em 3 meses para que você inicie seus estudos e prática com intensidade. Muitos poderão dizer: "data science em 3 meses? impossível!". Cremos que os conceitos podem ser entendidos em 3 meses e, é claro, para domínio de todos eles e parase tornar um expert na área, você precisará de 10 mil horas práticas, conforme a lei das 10mil horas. Obs.: encorajamos você a fazer eta maratona acompanhado(a) com um(a) parceiro(a) de estudos.
 
 <h2>Achar um(a) parceiro(a) de maratona</h2>
-Você pode encontrar um(a) parceiro(a) demaratona em nossa rede de grupos no Whatsapp e assim iniciarem juntos esta linda maratona: é dever de cada um cumprir os prazos e fiscalizar o progresso do outro, eventualmente auxiliando em eventuais "travadas" didáticas.
+Você pode encontrar um(a) parceiro(a) de maratona em nossa rede de grupos no Whatsapp e assim iniciarem juntos esta linda maratona: é dever de cada um cumprir os prazos e fiscalizar o progresso do outro, eventualmente auxiliando em eventuais "travadas" didáticas.
 
 <h2>Gostaria de deixar a coisa mais interessante?</h2>
 Se você é competitivo(a), indicamos o site http://www.stickk.com/ onde você insere sua meta, o prazo e uma pessoa que fiscalizará seu desempenho(sua dupla de maratona). Caso seu fiscal diga que você não está cumprindo os prazos, valores começam a ser descontados de seu cartão de crédito até a completa cobraça do valor selecionado no inicio do desafio. Você apostando em você mesmo! Você apostaria quanto em sua auto-disciplina?
