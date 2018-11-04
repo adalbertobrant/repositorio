@@ -1,7 +1,7 @@
 <h3>Devido ao sucesso da maratona estamos preparando maratonas certificadas(252h), online e em português, com trilhas e grades diversas! segue link para fila de espera das próximas: http://datasciencebrazil.org/maratona-data-science-em-3-meses/</h3><br>
 <p style="text-align:center;"><img src="https://uploaddeimagens.com.br/images/001/699/281/original/maratona_dsb.png?1541002812" width="400" height="400" align="center"></p>
 <h1>Maratona Data Science em 3 meses DATA SCIENCE BRAZIL</h1>
-<b>NÃO É PRECISO CONHECIMENTO PRÉVIO ALGUM EM NADA! SE VOCÊ SABE LER E TEM UM COMPUTADOR: BEM VINDO(A)!</b><br>
+<b>MARATONA GRATUITA E NÃO CERTIFICADA PELO DATA SCIENCE BRAZIL, para certificações , contate-nos</b><br>
 Inspirado em Siraj Raval, criamos a maratona data science em 3 meses para que você inicie seus estudos e prática com intensidade. Muitos poderão dizer: "data science em 3 meses? impossível!". Cremos que os conceitos podem ser entendidos em 3 meses e, é claro, para domínio de todos eles e parase tornar um expert na área, você precisará de 10 mil horas práticas, conforme a lei das 10mil horas. Obs.: encorajamos você a fazer eta maratona acompanhado(a) com um(a) parceiro(a) de estudos.
 
 <h2>Achar um(a) parceiro(a) de maratona</h2>
