@@ -35,7 +35,7 @@ Python, Probabilidade/Estatística, Análise de dados, I.A, Machine Learning, De
 <ul><b>semana 1</b>(5nov a 11nov) - <a href="https://solyd.com.br/treinamentos/python-basico">aprenda Python</ul></a>
 <ul><b>semana 2</b>(12nov a 18nov) - <a href="https://www.learncafe.com/cursos/curso-de-estatistica-e-probabilidade---escolha-o-video-pelo-assunto-que-esta-abaixo:-4">Probabilidade e estatística</ul></a>
 <ul><b>semana 3</b>(19nov a 25nov) - <a href="https://www.datascienceacademy.com.br/course?courseid=python-fundamentos">Pré processamento de dados, dataviz, análise exploratória(Capitulos 8 e 9 apenas)</ul></a>
-<ul><b>semana 4</b>(26nov a 2dez) - <a href="https://www.kaggle.com/c/titanic">projeto 1 kaggle</ul></a>
+<ul><b>semana 4</b>(26nov a 2dez) - Acesse <a href="http://mundoia.com.br/tutorial/conheca-o-kaggle-e-participe-da-sua-primeira-competicao-de-machine-learning/">este artigo</a>e participe do <a href="https://www.kaggle.com/c/titanic">projeto 1 kaggle</ul></a>
 </ol>
 <h3>🔴Mês 2 - Inteligência Artificial</h3>
 (cheatsheets dsb para guiar)
