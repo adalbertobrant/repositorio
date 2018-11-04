@@ -42,7 +42,7 @@ Python, Probabilidade/Estatística, Análise de dados, I.A, Machine Learning, De
 <ol>
 <ul><b>semana 5 e 6</b>(3dez a 16dez) - <a href="http://cursos.leg.ufpr.br/ML4all/">Algoritmos de machine learning</ul></a>
 <ul><b>semana 7</b>(17dez a 23dez) - <a href="https://www.youtube.com/playlist?list=PL4OAe-tL47sbzwP6pWR6NQ5ESOt-Ktrih">Deep Learning</ul></a>
-<ul><b>semana 8</b>(24dez a 30dez) - <a href="https://www.kaggle.com/c/digit-recognizer">projeto 2 kaggle</ul></a>
+<ul><b>semana 8</b>(24dez a 30dez) - <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">projeto 2 kaggle</ul></a>
 </ol>
 <h3>🔴Mês 3 - Ferramentas do dia-a-dia cientista de dados</h3>
 <ol>
